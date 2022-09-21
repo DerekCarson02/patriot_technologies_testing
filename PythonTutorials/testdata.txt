@@ -1,0 +1,20 @@
+==========================================================================================
+ SeaChest_Basics - Seagate drive utilities - NVMe Enabled
+ Copyright (c) 2014-2021 Seagate Technology LLC and/or its Affiliates, All Rights Reserved
+ SeaChest_Basics Version: 3.0.2-2_1_3 X86_64
+ Build Date: Feb 25 2021
+ Today: Fri May 27 07:56:46 2022        User: root
+==========================================================================================
+Vendor   Handle       Model Number            Serial Number          FwRev
+ATA      /dev/sg0     SanDisk SD9SB8W128G1122 173712620012           X6104000
+SEAGATE  /dev/sg1     SP-3424-E12EBD          SHF10071               404f
+SEAGATE  /dev/sg2     ST10000NM0246           ZA2678CL               KFX2
+SEAGATE  /dev/sg3     ST10000NM0246           ZA2678AL               KFX2
+SEAGATE  /dev/sg4     ST10000NM0246           ZA2668VL               KFX2
+SEAGATE  /dev/sg5     ST10000NM0246           ZA2688VL               KFX2
+SEAGATE  /dev/sg6     ST10000NM0246           ZA2679VL               KFX2
+SEAGATE  /dev/sg7     ST10000NM0246           ZAB678VL               KFX2
+SEAGATE  /dev/sg8     ST10000NM0246           ZAB678LL               KFX2
+SEAGATE  /dev/sg9     ST10000NM0246           ZA2628VL               KFX2
+SEAGATE  /dev/sg10     ST10000NM0246           ZA2675VL               KFX2
+SEAGATE  /dev/sg11     ST10000NM0246           ZA2278VL               KFX2
